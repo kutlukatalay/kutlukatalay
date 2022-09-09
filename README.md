@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kutlukatalay
-- 👀 Working with many Machine Learning Algorithms to solve different problems
-- 🌱 I’m currently getting my Master's on Data Science
+- 👀 Working with many machine learning models to solve different problems
+- 🌱 I’m currently getting my Master's on Data Science and Quantitative Methods
 
 - 📫 How to reach me
 - https://www.kaggle.com/kutlukatalay
